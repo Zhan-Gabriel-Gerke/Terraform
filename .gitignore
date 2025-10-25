@@ -1,0 +1,4 @@
+# Файлы состояния Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
