@@ -3,3 +3,5 @@
 *.tfstate.backup
 .terraform/
 .terraform.lock.hcl
+.pem
+telusko_course/terraform_keypair.pem
